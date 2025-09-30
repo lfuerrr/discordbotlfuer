@@ -10,4 +10,4 @@ greeting newbie in the channel.
 <3
 
 
-discord - https://discord.gg/KMEaHbQbDf
+more in discord - https://discord.gg/KMEaHbQbDf
